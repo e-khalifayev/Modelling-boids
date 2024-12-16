@@ -1,4 +1,4 @@
-Multi-agent simulation following principles of the crowd: Alignnment, Cohesion, Separation, Pursuit and Multiplicity. Version 4 is stable.
+Multi-agent simulation following principles of the crowd: Alignnment, Cohesion, Separation, Pursuit and Multiplicity. V5 is under development, V4 is currently stable.
 
 Optimizations: delta t (differential time), quadtree, spatial grid, dirty rectangles, object pooling, object-oriented programming
 
